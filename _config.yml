@@ -7,5 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-   - title: Waermepumpen
+  - title: Waermepumpen
     url: waermepumpen
