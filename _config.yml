@@ -9,3 +9,7 @@ navigation:
     url: setup
   - title: Waermepumpen
     url: waermepumpen
+  - title: Batterien
+    url: batterien
+  - title: Photovoltaik
+    url: PV
