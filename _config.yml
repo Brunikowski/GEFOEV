@@ -7,7 +7,7 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: Waermepumpen
+  - title: Wärmepumpen
     url: waermepumpen
   - title: Batterien
     url: batterien
